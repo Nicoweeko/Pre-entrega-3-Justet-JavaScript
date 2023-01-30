@@ -1,0 +1,58 @@
+const productos = [
+    {
+        id: 1,
+        nombre: "Capacitacion Tecnica Kaspersky Base", 
+        precio: 150,
+        img :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGENgCphNJVAdSjmd5DpHgP_XxqNqR3nfzj5YDIepakk3BfdsNGbHygb88ZHFU4Fv9Vps&usqp=CAU"
+    },
+
+    {
+        id: 2,
+        nombre: "Capacitacion Tecnica Kaspersky Intermedio", 
+        precio: 250,
+        img : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGENgCphNJVAdSjmd5DpHgP_XxqNqR3nfzj5YDIepakk3BfdsNGbHygb88ZHFU4Fv9Vps&usqp=CAU"
+    },
+
+    {
+        id: 3,
+        nombre: "Capacitacion Tecnica Kaspersky Avanzado", 
+        precio: 350,
+        img : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGENgCphNJVAdSjmd5DpHgP_XxqNqR3nfzj5YDIepakk3BfdsNGbHygb88ZHFU4Fv9Vps&usqp=CAU"
+    },
+
+    {
+        id: 4,
+        nombre: "Capacitacion Tecnica Fortinet Base", 
+        precio: 200,
+        img : "https://kinglead.com.tw/wp-content/uploads/2022/08/CS-Fortinet.png"
+    },
+
+    {
+        id: 5,
+        nombre: "Capacitacion Tecnica Fortinet Avanzado", 
+        precio: 400,
+        img : "https://kinglead.com.tw/wp-content/uploads/2022/08/CS-Fortinet.png"
+    },
+
+    {
+        id: 6,
+        nombre: "Capacitacion Tecnica Vmware Base", 
+        precio: 235,
+        img : "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/images/icons/vmw-avatar-corporate.png"
+    },
+
+    {
+        id: 7,
+        nombre: "Capacitacion Tecnica Vmware Avanzado", 
+        precio: 310,
+        img : "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/images/icons/vmw-avatar-corporate.png"
+    },
+
+    {
+        id: 8,
+        nombre: "Capacitacion Tecnica Veeam Avanzado", 
+        precio: 340,
+        img : "https://www.origen.ca/web/image/product.template/5011/image?unique=2fa51c3"
+    },
+
+];
